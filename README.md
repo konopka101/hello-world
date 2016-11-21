@@ -1,2 +1,6 @@
 # hello-world
-a place for me to store my web dev ideas and inspiration
+
+Hi Everybody,
+
+I am a Queens-born creative professional looking to get into web development.
+I love biking and netflix. Looking forward to being here.
